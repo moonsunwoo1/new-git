@@ -13,6 +13,6 @@
 
 [경일대학교](http://www.kiu.ac.kr)
 
-![images](./images/.1번 북극/.2번 달/.3번 대구 뷰)
+![hello-git](./images/.1번 북극/.2번 달/.3번 대구 뷰)
 
 
